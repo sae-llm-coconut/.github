@@ -1,3 +1,3 @@
 # SAE LLM Coconut
 
-![SAE LLM Coconut Logo](./logo.jpeg)
+![SAE LLM Coconut Logo](./logo.png)
